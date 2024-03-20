@@ -64,7 +64,7 @@ const vocabularies = [
     { term: "ne (Subj. m. Konj.) <siehe Lösung hier falls unsicher>", definition: ["dass nicht", "damit nicht"] },
     { term: "vicus, vici", definition: ["das Dorf", "die Gasse"] },
     { term: "egregius, egregia, egregium", definition: ["ausgezeichnet", "wundervoll", "hervorragend"] },
-    { term: "gerere, gero, gessi, gestum", definition: ["gerere","gero", "gessi", "gestum"] },
+    { term: "gerere, gero, gessi, gestum", definition: ["ausführen","führen", "tragen"] },
     { term: "utrum ... an(im ind. Fragesatz)", definition: ["ob...oder", "ob ... oder"] },
     { term: "servitus, servitutis", definition: ["die Sklaverei"] },
     { term: "libertas, libertatis", definition: ["die Freiheit"] },
